@@ -20,19 +20,19 @@ const Education = () => {
             title="B.Tech In Production & Industrial Engineering"
             subTitle="IIT Roorkee (2020 - 2024)"
             result="7.16/10"
-            des="The training provided by universities in order to prepare people to work in various sectors of the economy or areas of culture."
+            des="Gained a strong foundation in engineering principles, problem-solving, and analytical thinking, preparing me to tackle complex challenges in technology and software development."
           />
           <ResumeCard
             title="12th"
-            subTitle="Rao Man Singh"
+            subTitle="Rao Man Singh (2018-2019)"
             result="87.2%"
-            des="Higher education is tertiary education leading to award of an academic degree. Higher education, also called post-secondary education."
+            des="Completed my higher secondary education, building a strong academic foundation that prepared me for higher studies."
           />
           <ResumeCard
             title="10th"
-            subTitle="Integral Model School"
+            subTitle="Integral Model School (2017-2018)"
             result="9/10"
-            des="Secondary education or post-primary education covers two phases on the International Standard Classification of Education scale."
+            des="Completed my secondary education, laying the groundwork for advanced studies and skill development."
           />
         </div>
       </div>
