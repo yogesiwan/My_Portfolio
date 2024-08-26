@@ -1,8 +1,12 @@
 
 const links = [
     {
-        linkedin1: "https://github.com/yogesiwan/To_do_app",
-        web1: "https://yogesiwan.github.io/To_do_app/",
+        linkedin: "https://github.com/yogesiwan/To_do_app",
+        web: "https://yogesiwan.github.io/To_do_app/",
+    },
+    {
+        linkedin: "https://yogesiwan.github.io/Tomato/",
+        web: "https://github.com/yogesiwan/Tomato/tree/main",
     }
 ];
 

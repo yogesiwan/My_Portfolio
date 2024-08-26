@@ -20,14 +20,16 @@ const Projects = () => {
           title="To Do Notes"
           des="A simple and efficient to-do Web App designed to help users manage their daily tasks. This app utilizes local storage to save and persist to-do items."
           src={projectOne}
-          linkedin={links[0].linkedin1}
-          web={links[0].web1}
+          linkedin={links[0].linkedin}
+          web={links[0].web}
         />
         <ProjectsCard
           title="Tomato"
           des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
               Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
           src={projectTwo}
+          linkedin={links[1].linkedin}
+          web={links[1].web}
         />
         <ProjectsCard
           title="News Monks"
