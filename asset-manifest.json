@@ -1,19 +1,22 @@
 {
   "files": {
-    "main.css": "/My_Portfolio/static/css/main.83a9dc39.css",
-    "main.js": "/My_Portfolio/static/js/main.3bfa0e48.js",
-    "static/media/amigos_bnw_circle.png": "/My_Portfolio/static/media/amigos_bnw_circle.0d4610d8fdf8815d19ef.png",
+    "main.css": "/My_Portfolio/static/css/main.b260eb31.css",
+    "main.js": "/My_Portfolio/static/js/main.2a2c6146.js",
+    "static/media/amigos_bnw_circle-min.png": "/My_Portfolio/static/media/amigos_bnw_circle-min.fd1dbfd80396ac8e30cc.png",
+    "static/media/NewsMonks_cover.png": "/My_Portfolio/static/media/NewsMonks_cover.018fef892b15ae791d52.png",
+    "static/media/to_do_app_cover.png": "/My_Portfolio/static/media/to_do_app_cover.461912b7fccddceb48a7.png",
+    "static/media/Tomato_cover.png": "/My_Portfolio/static/media/Tomato_cover.5a873a39b84c3f922a90.png",
     "static/media/contactImg.png": "/My_Portfolio/static/media/contactImg.8ddfbfd11798f881db54.png",
     "static/media/testimonialOne.png": "/My_Portfolio/static/media/testimonialOne.c4706b2d1cadcb9f4daf.png",
     "static/media/projectThree.jpeg": "/My_Portfolio/static/media/projectThree.47442baa3158613330ab.jpeg",
     "static/media/testimonialTwo.png": "/My_Portfolio/static/media/testimonialTwo.c6df2773c486964035d9.png",
     "static/media/projectTwo.jpg": "/My_Portfolio/static/media/projectTwo.1fabe2c8c93632187ee6.jpg",
     "index.html": "/My_Portfolio/index.html",
-    "main.83a9dc39.css.map": "/My_Portfolio/static/css/main.83a9dc39.css.map",
-    "main.3bfa0e48.js.map": "/My_Portfolio/static/js/main.3bfa0e48.js.map"
+    "main.b260eb31.css.map": "/My_Portfolio/static/css/main.b260eb31.css.map",
+    "main.2a2c6146.js.map": "/My_Portfolio/static/js/main.2a2c6146.js.map"
   },
   "entrypoints": [
-    "static/css/main.83a9dc39.css",
-    "static/js/main.3bfa0e48.js"
+    "static/css/main.b260eb31.css",
+    "static/js/main.2a2c6146.js"
   ]
 }
