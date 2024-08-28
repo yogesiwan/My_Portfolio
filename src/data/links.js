@@ -1,12 +1,16 @@
 
 const links = [
     {
-        linkedin: "https://github.com/yogesiwan/To_do_app",
+        linkedin:  "https://github.com/yogesiwan/To_do_app",
         web: "https://yogesiwan.github.io/To_do_app/",
     },
     {
-        linkedin: "https://yogesiwan.github.io/Tomato/",
-        web: "https://github.com/yogesiwan/Tomato/tree/main",
+        linkedin: "https://github.com/yogesiwan/Tomato",
+        web: "https://tomato-s5ev.vercel.app",
+    },
+    {
+        linkedin: "https://github.com/yogesiwan/News-Monk",
+        web: "",
     }
 ];
 

@@ -26,7 +26,7 @@ const LeftBanner = () => {
           />
         </h2>
         <p className="text-base font-bodyFont leading-6 tracking-wide">
-        I specialize in front-end development, crafting intuitive and responsive websites. My goal is to create smooth, user-friendly experiences through clean design and thoughtful interactions
+        I’m a budding front-end developer, focused on creating responsive and user-friendly websites. I aim to build clean, simple designs that offer smooth interactions and an enjoyable user experience.
         </p>
       </div>
      {/* Media */}

@@ -15,9 +15,9 @@ function App() {
         <Navbar />
       <div className="max-w-screen-xl mx-auto">
         <Banner />
-        <Features />
-        <Projects />
         <Resume />
+        <Projects />
+        <Features />
         {/* <Testimonial /> */}
         <Contact />
         {/* <Footer /> */}

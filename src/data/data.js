@@ -11,13 +11,13 @@ export const featuresData = [
     des: "Building responsive and interactive web applications using modern front-end technologies.",
     link: "https://en.wikipedia.org/wiki/Web_development"
   },
-  {
-    id: 2,
-    icon: <SiProgress />,
-    title: "SEO Optimization",
-    des: "Enhancing website performance and search engine visibility through best coding practices.",
-    link: "https://en.wikipedia.org/wiki/Search_engine_optimization"
-  },
+  // {
+  //   id: 2,
+  //   icon: <SiProgress />,
+  //   title: "SEO Optimization",
+  //   des: "Enhancing website performance and search engine visibility through best coding practices.",
+  //   link: "https://en.wikipedia.org/wiki/Search_engine_optimization"
+  // },
   {
     id: 3,
     icon: <FaMobile />,
