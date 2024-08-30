@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/My_Portfolio/static/css/main.b260eb31.css",
-    "main.js": "/My_Portfolio/static/js/main.2a2c6146.js",
+    "main.js": "/My_Portfolio/static/js/main.e0edbd50.js",
     "static/media/amigos_bnw_circle-min.png": "/My_Portfolio/static/media/amigos_bnw_circle-min.fd1dbfd80396ac8e30cc.png",
+    "static/media/ai-chat-cover.png": "/My_Portfolio/static/media/ai-chat-cover.37fb9ce2ad38cfd7ffb7.png",
     "static/media/NewsMonks_cover.png": "/My_Portfolio/static/media/NewsMonks_cover.018fef892b15ae791d52.png",
     "static/media/to_do_app_cover.png": "/My_Portfolio/static/media/to_do_app_cover.461912b7fccddceb48a7.png",
     "static/media/Tomato_cover.png": "/My_Portfolio/static/media/Tomato_cover.5a873a39b84c3f922a90.png",
@@ -13,10 +14,10 @@
     "static/media/projectTwo.jpg": "/My_Portfolio/static/media/projectTwo.1fabe2c8c93632187ee6.jpg",
     "index.html": "/My_Portfolio/index.html",
     "main.b260eb31.css.map": "/My_Portfolio/static/css/main.b260eb31.css.map",
-    "main.2a2c6146.js.map": "/My_Portfolio/static/js/main.2a2c6146.js.map"
+    "main.e0edbd50.js.map": "/My_Portfolio/static/js/main.e0edbd50.js.map"
   },
   "entrypoints": [
     "static/css/main.b260eb31.css",
-    "static/js/main.2a2c6146.js"
+    "static/js/main.e0edbd50.js"
   ]
 }
