@@ -1,6 +1,7 @@
 import React from "react";
 import Title from "../layouts/Title";
 import {
+  aiChatCover,
   newsMonkCover,
   projectThree,
   todoCover,
@@ -24,6 +25,13 @@ const Projects = () => {
           src={tomatoCover}
           linkedin={links[1].linkedin}
           web={links[1].web}
+        />
+        <ProjectsCard
+          title="ai-chat-app"
+          des=" An AI chat web application with a simple, user-friendly interface that takes user input and generates responses using the Google Gemini API."
+          src={aiChatCover}
+          linkedin={links[3].linkedin}
+          web={links[3].web}
         />
         <ProjectsCard
           title="News Monks"

@@ -17,9 +17,9 @@ const Experience = () => {
         <div className="mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
             title="Web Development Intern"
-            subTitle="SPARK, IIT Roorkee"
-            result="April 2022 - June 2022"
-            des="Developed the front-end of the Channeli website for The Sparks Foundation, focusing on responsive design and user experience improvements."
+            subTitle="SarvM"
+            result="April 2024 - June 2024"
+            des="Enhanced front-end web development skills and gained exposure to back-end technologies. Contributed to the development of SarvM's website front end."
           />
           <ResumeCard
             title="Quality Analyst Intern"

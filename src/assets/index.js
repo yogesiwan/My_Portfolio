@@ -9,6 +9,7 @@ import contactImg from "./images/contact/contactImg.png";
 import tomatoCover from "./images/projects/Tomato_cover.png";
 import todoCover from "./images/projects/to_do_app_cover.png"
 import newsMonkCover from "./images/projects/NewsMonks_cover.png"
+import aiChatCover from "./images/projects/ai-chat-cover.png"
 
 export {
   bannerImg,
@@ -21,5 +22,6 @@ export {
   contactImg,
   tomatoCover,
   todoCover,
-  newsMonkCover
+  newsMonkCover,
+  aiChatCover
 };
